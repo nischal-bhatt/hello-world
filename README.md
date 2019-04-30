@@ -1,7 +1,2 @@
 # hello-world
-hi again
-hi i am nish
-i am new to github
-learning
-i have made changes here to 
-please 
+what la ?
